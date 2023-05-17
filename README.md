@@ -5,14 +5,20 @@
     b. Be sure to format the Time column after load (HH:MM:SS). If you get any load errors, try to understand whether you can reload the data and correct them.  
     c. Create another worksheet and name it `analysis`. This is where you should do your analysis work.  
 
-2. Use built-in functions to answer the following questions. Be sure to display your analysis work in a neat, easy-to-follow format.    
-    a. Find the fastest time, slowest time, median, and mean times for each of the 8 races.  
-    b. Find the mean and median marathon finish times for all 4 years combined.  
-    c. Find the mean and median half-marathon finish times for all 4 years combined.  
+Done
 
+2. Use built-in functions to answer the following questions. Be sure to display your analysis work in a neat, easy-to-follow format.    
+    a. Find the fastest time, slowest time, median, and mean times for each of the 8 races.
+Listed in B2:E9 
+    b. Find the mean and median marathon finish times for all 4 years combined. 
+F2:G2
+    c. Find the mean and median half-marathon finish times for all 4 years combined.  
+H2:I2
 3. First time marathoners sometimes set a goal of beating “Oprah’s time,” Oprah Winfrey’s time (04:29:20) in the 1994 Marine Corps Marathon when she was 40 years old.  
-        a. How many runners each year beat Oprah’s time?  
+        a. How many runners each year beat Oprah’s time? 
+K2:K5 
         b. What percentage of runners in each of the 4 marathons beat Oprah’s time?  
+L2:L5
 
 4. Quartiles help group ordered data into buckets – the first quartile separates the lowest 25 percent of the data from the top 75 percent, the second quartile (same as the median) divides the dataset in half, and the third quartile separates the lowest 75 percent from the top 25 percent. Find the values that define the first, second, and third quartiles for each half-marathon.
 
@@ -24,6 +30,7 @@
 
 ##### Create a brief (5 minute) presentation to communicate your findings from this exercise.
 
+Three Ways to skin a CONCAT
 
 
 
